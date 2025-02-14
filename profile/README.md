@@ -50,5 +50,5 @@ mainnet and useful for general audience.
 
 # Contributors
 If you would like to contribute to the any of `neo` Github repositories. Please follow
-your [coding guidelines](https://github.com/neo-project/.github/docs/neo-coding-rules.md)
+our [coding guidelines](https://github.com/neo-project/.github/docs/neo-coding-rules.md)
 to make the review process fast as possible.
